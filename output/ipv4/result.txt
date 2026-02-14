@@ -1,25 +1,25 @@
 🕘️更新时间,#genre#
-2026-02-14 18:21:50,https://iptv.catvod.com/live.php?id=CCTV1&line=10
+2026-02-15 06:19:17,https://iptv.catvod.com/live.php?id=CCTV1&line=10
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=10
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=10
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=1
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4&line=10
+CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5%2B
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=10
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=1
+CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=10
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
@@ -27,10 +27,10 @@ CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=1
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=10
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=1
-CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=1
+CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=10
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=1
@@ -38,10 +38,9 @@ CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=1
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=1
-CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1
+CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
-CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
@@ -60,26 +59,24 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
-广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=10
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-
-☘️广东频道,#genre#
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 
 🌊港·澳·台,#genre#
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
@@ -99,8 +96,8 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 🎬电影频道,#genre#
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&line=1
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=1
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -114,17 +111,18 @@ NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097
-靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
 靖天戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
 靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
 东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 
 🎥咪咕直播,#genre#
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
@@ -134,12 +132,13 @@ NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 新动漫,https://iptv.catvod.com/live.php?id=%E6%96%B0%E5%8A%A8%E6%BC%AB
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
-炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
+炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
@@ -150,5 +149,5 @@ NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 经典动漫,https://lunbo.freetv.top/yy/24180320
+漫画解说,https://lunbo.freetv.top/yy/1382735568
