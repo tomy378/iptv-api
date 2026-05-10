@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-10 06:38:17,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-05-10 18:59:02,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
@@ -21,6 +21,7 @@ CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
 CETV-2,https://iptv.catvod.com/live.php?id=CETV2&line=1
+CETV-2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
@@ -31,14 +32,6 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
-第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
-第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
-第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
@@ -73,8 +66,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🎬电影频道,#genre#
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -100,6 +93,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 爱动漫,http://222.212.84.190:54123/rtp/239.93.42.23:5140
+优漫卡通,https://iptv.catvod.com/catvod?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&line=1
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 炫动卡通,http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -112,3 +106,5 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 河北少儿科教,http://php.fjl626.cn/hebei.php?id=sekj
+火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
