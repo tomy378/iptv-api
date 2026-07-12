@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-12 06:48:48,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-07-12 19:19:56,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -31,9 +31,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎥咪咕直播,#genre#
 
 🪁动画频道,#genre#
+七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
+七龙珠,https://live.metshop.top/huya/11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
-中华小当家,https://live.metshop.top/huya/11342413
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
