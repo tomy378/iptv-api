@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-09-03 22:16:06,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-04 07:52:25,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 
 💰央视付费频道,#genre#
 
@@ -28,6 +29,9 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
+天映经典,https://cdn10.123.rr.kg/163189/ccm/
 无线星河,http://r.jdshipin.com/sXuuD
 
 🎥咪咕直播,#genre#
@@ -37,6 +41,5 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
-漫画解说,https://www.goodiptv.club/douyu/5907076
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
