@@ -1,31 +1,28 @@
 🕘️更新时间,#genre#
-2026-09-11 22:04:29,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-09-12 07:44:39,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://mg.cttv.vip/923287154
-CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV-2,http://59.110.175.70:10000/923287211
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
+CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
-CETV-4,http://mg.cttv.vip/923287339
 
 💰央视付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 央视台球,http://107.150.60.122/live/ystq.m3u8
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 风云音乐,http://107.150.60.122/live/fyyy.m3u8
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=fb9584fe15e1e0bb2a733656352904fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -38,12 +35,18 @@ CETV-4,http://mg.cttv.vip/923287339
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-世界地理,http://107.150.60.122/live/sjdl.m3u8
 世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 世界地理,http://192.151.150.154/live/sjdl.m3u8
+世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
+世界地理,http://107.150.60.122/live/sjdl.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
+兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
@@ -88,29 +91,15 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001
 淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
+纬来电影,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34852
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 靖天映画,http://45.192.97.170:8880/play/1267.m3u8
-靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
-靖天映画,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105
-靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
-靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
-靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
-靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 靖天戏剧,http://45.192.97.170:8880/play/1268.m3u8
-靖天戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
-靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097
-靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
-靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-天映经典,https://cdn3.indevs.in/stream/live/ccm/
-天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
 无线星河,http://r.jdshipin.com/sXuuD
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
+东森洋片,http://45.192.97.170:8880/play/1287.m3u8
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
 东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454
 
@@ -138,12 +127,13 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
-七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,http://45.192.97.170:8880/play/2060.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
+猫和老鼠,https://live.metshop.top/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 蜡笔小新,http://luobo.bkpcp.top/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
