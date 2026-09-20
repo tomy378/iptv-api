@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-20 07:51:54,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-20 21:55:24,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -28,6 +28,7 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+天映经典,https://cdn.qd.je/163189/ccm
 无线星河,http://r.jdshipin.com/sXuuD
 
 🎥咪咕直播,#genre#
@@ -37,7 +38,7 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
+猫和老鼠,https://live.metshop.top/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
