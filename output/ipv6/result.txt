@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-01 00:47:07,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-01 09:09:26,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -22,14 +22,18 @@ Viutv,http://r.jdshipin.com/vSJvl
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🎬电影频道,#genre#
+天映经典,https://10.fast.hidns.vip/163189/ccm/
+天映经典,https://cdn.qd.je/163189/ccm
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 无线星河,http://r.jdshipin.com/sXuuD
 
 🎥咪咕直播,#genre#
 
 🪁动画频道,#genre#
-七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
